@@ -1,6 +1,7 @@
 # ASHLEY_v1
 
-10.5281/zenodo.4152364
+[![DOI](https://zenodo.org/badge/308220762.svg)](https://zenodo.org/badge/latestdoi/308220762)
+
 
 Source code (v1) of the ASHLEY model
 
