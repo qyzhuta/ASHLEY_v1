@@ -1,9 +1,7 @@
 # ASHLEY_v1
 
-[![DOI](https://zenodo.org/badge/308220762.svg)](https://zenodo.org/badge/latestdoi/308220762)
-
-
-Source code (v1) of the ASHLEY model
+(Release note: 10/28/2020)
+This is a preliminary release version of the source code of ASHLEY model, and details can be found in Zhu et al. (2020), "ASHLEY: a new empirical model for the high-latitude electron precipitation and electric field", submitted to Space Weather. Therefore, the codes are upon changes and improvements, and the updated version will be released in the future.
 
 ## ASHLEY
 ASHLEY is a new empirical model for the high-latitude electron precipitation and electric field, which consist of three components: ASHLEY-A, ASHLEY-E and ASHLEY-Evar. All those models are developed based on the DMSP SSJ and SSIES measurements.
@@ -19,3 +17,6 @@ The electric field variability component of the ASHLEY model, which provide the 
 
 ## Language 
 Python 3 is required
+
+## Contact
+qingyu.zhu@mavs.uta.edu or yuedeng@uta.edu.
