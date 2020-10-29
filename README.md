@@ -1,5 +1,7 @@
 # ASHLEY_v1
 
+10.5281/zenodo.4152364
+
 Source code (v1) of the ASHLEY model
 
 ## ASHLEY
